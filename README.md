@@ -7,9 +7,18 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://www.istiaq66.me)
-[![website](./img/globe-dark.svg)(https://www.istiaq66.me)
+[![website](./img/globe-light.svg)](https://www.istiaq66.me#gh-light-mode-only)
+[![website](./img/globe-dark.svg)(https://www.istiaq66.me#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![website](./img/facebook-light.svg)](https://www.facebook.com/ahmed.boby.752#gh-light-mode-only)
+[![website](./img/facebook-dark.svg)(https://www.facebook.com/ahmed.boby.752#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/istiaq-ahmed-7772641a9#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)(https://www.linkedin.com/in/istiaq-ahmed-7772641a9#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://www.instagram.com/istiaq_boby/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)(https://www.instagram.com/istiaq_boby/#gh-dark-mode-only)
+
 
 
 
