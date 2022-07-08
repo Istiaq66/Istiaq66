@@ -35,7 +35,7 @@
 [<img align="left" alt="Github" width="26px" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" style="padding-right:10px;" />][github]
 
 
-[![Istiaq GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiaq66)](https://github.com/anuraghazra/github-readme-stats)
+[![Istiaq GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiaq66&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
