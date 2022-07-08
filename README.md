@@ -19,6 +19,12 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/istiaq_boby/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/istiaq_boby/#gh-dark-mode-only)
 
+### Languages and Tools:
+
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" style="padding-right:10px;" />]
+
 
 
 
