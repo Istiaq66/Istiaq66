@@ -6,6 +6,8 @@
 - ⚡ Fun fact: I love to play video games / football 
 - 😻 Check out the website I created: [Library66](https://library66.tech)
 
+---
+
 ### Connect with me:
 
 [![website](https://img.shields.io/badge/-Istiaq_Ahmed-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.boby.752)
@@ -26,7 +28,6 @@
 [![PHP Badge](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=lightblue)](https://github.com/Istiaq66/IP_Final_Project_php)
 
 
-
 ### Languages and Tools:
 
 [<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="padding-right:10px;" />][c]
@@ -43,9 +44,19 @@
 [<img align="left" alt="Github" width="26px" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" style="padding-right:10px;" />][github]
 
 
-<br />
+<br /><br/>
 
 ---
+
+### Bizness
+- :paperclip: [My Resume/CV](https://github.com/Istiaq66/Istiaq66/../../../../Resume/Istiaq%20Ahmed%20Resume.pdf)
+- :email: ahmedboby66@gmail.com
+
+
+### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Istiaq66.Istiaq66)
+
 
 <details>
   <summary>:zap: GitHub Stats</summary>
