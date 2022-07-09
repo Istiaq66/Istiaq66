@@ -22,6 +22,7 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Android Badge](https://img.shields.io/badge/-android-green?style=for-the-badge&labelColor=black&logo=android&logoColor=brightgreen)](https://github.com/Istiaq66/Real-time-chat-app)
+&nbsp;&nbsp;
 [![PHP Badge](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=lightblue)](https://github.com/Istiaq66/IP_Final_Project_php)
 
 
