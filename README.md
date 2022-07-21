@@ -44,7 +44,14 @@
 [<img align="left" alt="Github" width="26px" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" style="padding-right:10px;" />][github]
 
 
-<br /><br/>
+<br/> <br/>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Istiaq66&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Istiaq"/></p>
+
+
+[![Istiaq's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Istiaq66&&theme=xcode)](https://github.com/Istiaq66)
+
+<br/>
 
 ---
 
@@ -61,9 +68,11 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-<br />
+<br/>
 
-[![Istiaq GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiaq66&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Istiaq66&&theme=tokyonight" alt="Istiaq" /></p>
+
+[![Istiaq GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiaq66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
