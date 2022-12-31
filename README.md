@@ -1,7 +1,7 @@
 # Hi there, I'm Istiaq Ahmed 👋 
-## I'm a Software Developer | Problem Solver | RND Enthusiast!!
+## I'm a Software Developer | Problem Solver | RND Enthusiast!
 
-- 🥅 2022 Goals: Learn MVVM Architecture, Kotlin, Laravel and solve problems on Leetcode
+- 🥅 2023 Goals: Learn DSA, Learn MVVM and Kotlin, solve problems on Leetcode and get job a in the Software Industry
 -  📫 How to reach me: ahmedboby66@gmail.com.
 - ⚡ Fun fact: I love to play video games / football 
 - 😻 Check out the website I created: [Library66](https://library66.tech)
