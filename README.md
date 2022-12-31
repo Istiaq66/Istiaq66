@@ -67,8 +67,6 @@
 
 [![Istiaq GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiaq66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Istiaq's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Istiaq66&&theme=xcode)](https://github.com/Istiaq66)
-
 </details>
 
 
