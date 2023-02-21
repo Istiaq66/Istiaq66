@@ -1,10 +1,12 @@
 # Hi there, I'm Istiaq Ahmed 👋 
 ## I'm a Software Developer | Problem Solver | RND Enthusiast!
 
-- 🥅 2023 Goals: Learn DSA, Learn MVVM and Kotlin, solve problems on Leetcode and get job a in the Software Industry
+- 🥅 2023 Goals: Learn DSA, Learn Flutter and Dart,Learn a backend framework solve problems on Leetcode and get job a in the Software Industry 
+  
 -  📫 How to reach me: ahmedboby66@gmail.com.
 - ⚡ Fun fact: I love to play video games / football 
-- 😻 Check out the website I created: [Library66](https://library66.tech)
+- 🏢 I'm currently Studying at IIUC
+- 😻 Check out the website I created: [Momentous-Click](https://momentous-click.elementfx.com)
 
 ---
 
@@ -26,6 +28,8 @@
 [![Android Badge](https://img.shields.io/badge/-android-green?style=for-the-badge&labelColor=black&logo=android&logoColor=brightgreen)](https://github.com/Istiaq66/Real-time-chat-app)
 &nbsp;&nbsp;
 [![PHP Badge](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=lightblue)](https://github.com/Istiaq66/IP_Final_Project_php)
+
+[![Mysql Badge](https://img.shields.io/badge/-Mysql-blue?style=for-the-badge&labelColor=white&logo=Mysql&logoColor=orange)](https://momentous-click.elementfx.com)
 
 
 ### Languages and Tools:
