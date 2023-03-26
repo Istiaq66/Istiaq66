@@ -1,7 +1,7 @@
 # Hi there, I'm Istiaq Ahmed 👋 
 ## I'm a Software Developer | Problem Solver | RND Enthusiast!
 
-- 🥅 2023 Goals: Learn DSA, Learn Flutter and Dart,Learn a backend framework solve problems on Leetcode and get job a in the Software Industry 
+- 🥅 2023 Goals: Learn DSA, Learn Flutter and Dart, Learn a backend framework solve problems on Leetcode and get job a in the Software Industry 
   
 -  📫 How to reach me: ahmedboby66@gmail.com.
 - ⚡ Fun fact: I love to play video games / football 
@@ -45,7 +45,9 @@
 [<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css]
 [<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" style="padding-right:10px;" />][php]
 [<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="padding-right:10px;" />][firebase]
-[<img align="left" alt="Github" width="26px" src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" style="padding-right:10px;" />][Dart]
+[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" style="padding-right:10px;" />][flutter]
+
 
 
 <br/> <br/>
@@ -87,3 +89,5 @@
 [firebase]: https://firebase.google.com
 [xml]: https://www.w3.org/standards/xml/core
 [github]: https://github.com
+[Dart]: https://dart.dev
+[Flutter]: https://flutter.dev/
