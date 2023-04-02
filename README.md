@@ -1,8 +1,6 @@
 [![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://https://sites.google.com/view/istiaq66)
 
 
-
-
 # Hi there, I'm Istiaq Ahmed 👋 
 ## I'm a Software Developer | Problem Solver | RND Enthusiast!
 
@@ -15,7 +13,6 @@
 - 😻 Check out the website I created: [Momentous-Click](https://momentous-click.elementfx.com)
 
 ---
-
 
 ### Connect with me:
 
@@ -83,6 +80,7 @@
 <b>&#128200; Competitive Programming</b>
 
 ![](https://raw.githubusercontent.com/istiaq66/cf-stats/main/output/max_rating.svg)
+
 ![](https://raw.githubusercontent.com/istiaq66/cf-stats/main/output/light_card.svg)
 
 
