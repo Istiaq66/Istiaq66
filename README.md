@@ -36,7 +36,6 @@
 [![Mysql Badge](https://img.shields.io/badge/-Mysql-blue?style=for-the-badge&labelColor=white&logo=Mysql&logoColor=orange)](https://momentous-click.elementfx.com)
 
 
-### Languages and Tools:
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
