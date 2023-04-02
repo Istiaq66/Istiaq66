@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://https://sites.google.com/view/istiaq66)
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://sites.google.com/view/istiaq66)
 
 
 # Hi there, I'm Istiaq Ahmed 👋 
