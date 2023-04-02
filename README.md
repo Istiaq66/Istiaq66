@@ -1,7 +1,13 @@
+[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://https://sites.google.com/view/istiaq66)
+
+
+
+
 # Hi there, I'm Istiaq Ahmed 👋 
 ## I'm a Software Developer | Problem Solver | RND Enthusiast!
 
 - 🥅 2023 Goals: Learn DSA, Learn Dart & Flutter, Learn a backend framework solve problems on Leetcode and get job a in the Software Industry 
+
   
 -  📫 How to reach me: ahmedboby66@gmail.com.
 - ⚡ Fun fact: I love to play video games / football 
@@ -9,6 +15,7 @@
 - 😻 Check out the website I created: [Momentous-Click](https://momentous-click.elementfx.com)
 
 ---
+
 
 ### Connect with me:
 
@@ -34,23 +41,18 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" style="padding-right:10px;" />][c]
-[<img align="left" alt="C++" width="26px" src="https://1.bp.blogspot.com/-27DoW2NElME/W_BP4ITySdI/AAAAAAAAMNw/_TY-MLDYSVExS1ixV87PAluu41RQhezvwCLcBGAs/s1600/c-plus-plus-logo.png" style="padding-right:10px;" />][c++]
-[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png" style="padding-right:10px;" />][java]
-[<img align="left" alt="XML" width="26px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png" style="padding-right:10px;" />][xml]
-[<img align="left" alt="mysql" width="26px" src="https://www.pngkey.com/png/full/269-2693201_mysql-logo-circle-png.png" style="padding-right:10px;" />][mysql]
-[<img align="left" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png" style="padding-right:10px;" />][android]
-[<img align="left" alt="API" width="26px" src="https://cdn-icons-png.flaticon.com/512/627/627558.png" style="padding-right:10px;" />][api]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][html]
-[<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][css]
-[<img align="left" alt="php" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" style="padding-right:10px;" />][php]
-[<img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" style="padding-right:10px;" />][firebase]
-[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" style="padding-right:10px;" />][Dart]
-[<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" style="padding-right:10px;" />][flutter]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
 
-
-
-<br/> <br/>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+ <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
+ <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  </p>
 
 ---
 
@@ -76,18 +78,12 @@
 </details>
 
 
+---
+
+<b>&#128200; Competitive Programming</b>
+
+![](https://raw.githubusercontent.com/istiaq66/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/istiaq66/cf-stats/main/output/light_card.svg)
+
+
 [Website]: https://www.istiaq66.me
-[html]: https://www.w3schools.com/html
-[css]: https://www.w3schools.com/css
-[android]: https://www.android.com
-[api]: https://www.mulesoft.com/resources/api/what-is-an-api
-[php]: https://www.php.net/
-[c++]: https://www.w3schools.com/CPP/default.asp
-[c]: https://en.wikipedia.org/wiki/C_(programming_language)
-[java]: https://www.java.com/en
-[mysql]: https://www.mysql.com
-[firebase]: https://firebase.google.com
-[xml]: https://www.w3.org/standards/xml/core
-[github]: https://github.com
-[Dart]: https://dart.dev
-[Flutter]: https://flutter.dev/
