@@ -2,7 +2,7 @@
 
 
 # Hi there, I'm Istiaq Ahmed 👋 
-## I'm a Software Developer | Problem Solver | RND Enthusiast!
+## I'm a Software Engineer | Problem Solver | RND Enthusiast!
 
 - 🥅 2023 Goals: Learn DSA, Learn Dart & Flutter, Learn a backend framework solve problems on Leetcode and get job a in the Software Industry 
 
