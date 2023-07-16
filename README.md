@@ -59,6 +59,11 @@
 
 ### Profile Visits 
 
+  <a href="https://github.com/Istiaq66 /">
+    <img src="https://komarev.com/ghpvc/?username=Istiaq66" alt="visitors" />
+  </a>
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Istiaq66.Istiaq66)
 
 
