@@ -64,8 +64,6 @@
   </a>
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Istiaq66.Istiaq66)
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
