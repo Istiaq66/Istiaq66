@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://sites.google.com/view/istiaq66)
+[![MasterHead](https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif)](https://sites.google.com/view/istiaq66)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Istiaq+Ahmed!+👋)](https://git.io/typing-svg)
 
