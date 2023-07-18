@@ -1,12 +1,14 @@
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Istiaq+Ahmed!+👋)](https://git.io/typing-svg)
+
+
+<p align="left">
   <a href="https://sites.google.com/view/istiaq66">
-    <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" alt="MasterHead">
+    <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" alt="MasterHead" width="200" height="200">
   </a>
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Istiaq+Ahmed!+👋)](https://git.io/typing-svg)
 
-## I'm a Software Engineer | Problem Solver | RND Enthusiast!
+## I'm a Software Engineer | Problem Solver | RND Enthusiast! 
 
 - 🥅 2023 Goals: Learn DSA, Learn Dart & Flutter, Learn a backend framework solve problems on Leetcode and get job a in the Software Industry 
 
