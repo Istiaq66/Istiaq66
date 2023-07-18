@@ -8,7 +8,7 @@
 </p>
 
 
-## I'm a Software Engineer | Problem Solver | RND Enthusiast! 
+## I'm a Software Engineer (Mobile Aplication) | Problem Solver | RND Enthusiast! 
 
 - 🥅 2023 Goals: Learn DSA, Learn Dart & Flutter, Learn a backend framework solve problems on Leetcode and get job a in the Software Industry 
 
