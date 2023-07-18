@@ -1,4 +1,8 @@
-[![MasterHead](https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif)](https://sites.google.com/view/istiaq66)
+<p align="center">
+  <a href="https://sites.google.com/view/istiaq66">
+    <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" alt="MasterHead">
+  </a>
+</p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Istiaq+Ahmed!+👋)](https://git.io/typing-svg)
 
@@ -86,4 +90,4 @@
 ![](https://raw.githubusercontent.com/istiaq66/cf-stats/main/output/light_card.svg)
 
 
-[Website]: https://www.istiaq66.me
+[Website]: href="https://sites.google.com/view/istiaq66
