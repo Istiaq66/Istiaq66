@@ -91,7 +91,6 @@
 
 ![](https://raw.githubusercontent.com/istiaq66/cf-stats/main/output/light_card.svg)
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b278ac5f038d81eeb639a3?variant=dark)](https://roadmap.sh)
-
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/64b278ac5f038d81eeb639a3?variant=dark&roadmaps=flutter)](https://roadmap.sh)
 
 [Website]: href="https://sites.google.com/view/istiaq66
