@@ -35,11 +35,13 @@
 ### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
-[![Android Badge](https://img.shields.io/badge/-android-green?style=for-the-badge&labelColor=black&logo=android&logoColor=brightgreen)](https://github.com/Istiaq66/Real-time-chat-app)
-&nbsp;&nbsp;
-[![PHP Badge](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=lightblue)](https://github.com/Istiaq66/IP_Final_Project_php)
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Istiaq66/MentorShip/tree/master/Dart%20Basics)
+&nbsp;
+[![Flutter Badge](https://img.shields.io/badge/-flutter-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=blue)](https://github.com/Istiaq66/MentorShip/tree/master/quiz_app)
+&nbsp;
+[![PHP Badge](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=tblue)](https://momentous-click.elementfx.com)
 
-[![Mysql Badge](https://img.shields.io/badge/-Mysql-blue?style=for-the-badge&labelColor=white&logo=Mysql&logoColor=orange)](https://momentous-click.elementfx.com)
+
 
 
 
