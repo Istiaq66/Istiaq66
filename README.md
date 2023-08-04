@@ -10,7 +10,7 @@
 
 ## I'm a Software Engineer (Mobile Aplication Developer) | Problem Solver | RND Enthusiast! 
 
-- 🥅 2023 Goals: Learn DSA, Learn Dart & Flutter, Learn a backend framework solve problems on Leetcode and get job a in the Software Industry 
+- 🥅 2023 Goals: Learn DSA, Flutter, a backend framework solve problems on Leetcode and get job a in the Software Industry 
 
   
 -  📫 How to reach me: ahmedboby66@gmail.com.
