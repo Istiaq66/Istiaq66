@@ -62,7 +62,7 @@
 ---
 
 ### Bizness
-- :paperclip: [My Resume/CV](https://github.com/Istiaq66/Istiaq66/blob/master/Resume/Istiaq%20Ahmed%20Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Istiaq66/Istiaq66/blob/master/Resume/Istiaq%20Ahmed.pdf)
 - :email: ahmedboby66@gmail.com
 
 
