@@ -73,17 +73,15 @@
   </a>
 
 
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
 <br/>
+
+### :zap: GitHub Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Istiaq66&&theme=tokyonight" alt="Istiaq" /></p>
 
 [![Istiaq GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiaq66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
+
 
 
 ---
