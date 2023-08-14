@@ -95,5 +95,8 @@
 ![](https://raw.githubusercontent.com/istiaq66/cf-stats/main/output/light_card.svg)
 
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Istiaq66&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
+
 
 [Website]: href="https://sites.google.com/view/istiaq66
