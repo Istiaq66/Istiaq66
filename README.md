@@ -8,9 +8,9 @@
 </p>
 
 
-## I'm a Software Engineer (Android | Flutter) | Problem Solver
+## I'm a Software Engineer (Flutter) @6amtech | Problem Solver | Passionate about creating innovative solutions
 
-- 🥅 2023 Goals: Learn DSA, Flutter, a backend framework solve problems on Leetcode and get job a in the Software Industry 
+- 🥅 2024 Goals: Advance expertise in DSA, initiate backend learning, explore DevOps, contribute to open source, and focus on code quality for continual growth as a software engineer.
 
   
 -  📫 How to reach me: ahmedboby66@gmail.com.
