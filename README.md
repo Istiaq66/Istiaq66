@@ -15,7 +15,7 @@
   
 -  📫 How to reach me: ahmedboby66@gmail.com.
 - ⚡ Fun fact: I love to play video games / football 
-- 🏢 I'm currently Studying at IIUC
+- ⚒ I'm currently working as a Software Engineer (Flutter) @6amtech
 - 😻 Check out the website I created: [Momentous-Click](https://momentous-click.elementfx.com)
 
 ---
