@@ -8,7 +8,7 @@
 </p>
 
 
-## I'm a Software Engineer (Flutter) @6amtech | Problem Solver | Passionate about creating innovative solutions
+## I'm a Software Engineer (Flutter) | Problem Solver | Passionate about creating innovative solutions
 
 - 🥅 2024 Goals: Advance expertise in DSA, initiate backend learning, explore DevOps, contribute to open source, and focus on code quality for continual growth as a software engineer.
 
