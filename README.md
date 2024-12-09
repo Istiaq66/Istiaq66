@@ -22,7 +22,7 @@
 -  📫 How to reach me: ahmedboby66@gmail.com.
 - ⚡ Fun fact: I love to play video games / football 
 - ⚒ I'm currently working as a Software Engineer (Flutter) @6amtech
-- 😻 Check out the website I created: [Fitness-Pal](https://github.com/Istiaq66/fitnesspal_user/tree/master)
+- 😻 Check out the app I created: [Fitness-Pal](https://github.com/Istiaq66/fitnesspal_user/tree/master)
 
 ---
 
