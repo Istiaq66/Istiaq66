@@ -16,13 +16,13 @@
 
 ## I'm a Software Engineer (Flutter) | Problem Solver | Passionate about creating innovative solutions
 
-- 🥅 2024 Goals: Advance expertise in DSA, initiate backend learning, explore DevOps, contribute to open source, and focus on code quality for continual growth as a software engineer.
+- 🥅 2025 Goals: Advance expertise in DSA, initiate backend learning, explore DevOps, contribute to open source, and focus on code quality for continual growth as a software engineer.
 
   
 -  📫 How to reach me: ahmedboby66@gmail.com.
 - ⚡ Fun fact: I love to play video games / football 
 - ⚒ I'm currently working as a Software Engineer (Flutter) @6amtech
-- 😻 Check out the website I created: [Momentous-Click](https://momentous-click.elementfx.com)
+- 😻 Check out the website I created: [Fitness-Pal](https://github.com/Istiaq66/fitnesspal_user/tree/master)
 
 ---
 
