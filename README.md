@@ -1,11 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Istiaq+Ahmed!+👋)](https://git.io/typing-svg)
 
-
-<p align="left">
-  <a href="https://sites.google.com/view/istiaq66">
-    <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" alt="MasterHead" width="300" height="200">
-  </a>
-</p>
+<table>
+  <tr>
+    <td style="padding: 10px;">
+      <a href="https://sites.google.com/view/istiaq66">
+        <img src="https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif" alt="MasterHead" width="300" height="200">
+      </a>
+    </td>
+    <td style="padding: 10px;">
+      <img src="https://github.com/Istiaq66/Istiaq66/blob/output/github-snake-dark.svg" alt="snake gif" />
+    </td>
+  </tr>
+</table>
 
 
 ## I'm a Software Engineer (Flutter) | Problem Solver | Passionate about creating innovative solutions
