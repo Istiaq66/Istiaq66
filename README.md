@@ -1,5 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Istiaq+Ahmed!+👋)](https://git.io/typing-svg)
 
+## I'm a Software Engineer (Flutter) | Problem Solver | Passionate about creating innovative solutions
+
+- 🥅 2025 Goals: Advance expertise in DSA, initiate backend learning, explore DevOps, contribute to open source, and focus on code quality for continual growth as a software engineer.
+
+-  📫 How to reach me: ahmedboby66@gmail.com.
+- ⚡ Fun fact: I love to play video games / football 
+- ⚒ I'm currently working as a Software Engineer (Flutter) @6amtech
+- 😻 Check out the app I created: [Fitness-Pal](https://github.com/Istiaq66/fitnesspal_user/tree/master)
+
 <table>
   <tr>
     <td style="padding: 10px;">
@@ -14,18 +23,6 @@
 </table>
 
 
-## I'm a Software Engineer (Flutter) | Problem Solver | Passionate about creating innovative solutions
-
-- 🥅 2025 Goals: Advance expertise in DSA, initiate backend learning, explore DevOps, contribute to open source, and focus on code quality for continual growth as a software engineer.
-
-  
--  📫 How to reach me: ahmedboby66@gmail.com.
-- ⚡ Fun fact: I love to play video games / football 
-- ⚒ I'm currently working as a Software Engineer (Flutter) @6amtech
-- 😻 Check out the app I created: [Fitness-Pal](https://github.com/Istiaq66/fitnesspal_user/tree/master)
-
----
-
 ### Connect with me:
 
 [![website](https://img.shields.io/badge/-Istiaq_Ahmed-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/ahmed.boby.752)
@@ -36,7 +33,7 @@
 &nbsp;&nbsp;
 [![Mail Badge](https://img.shields.io/badge/-Ahmedboby66-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ahmedboby66@gmail.com)
 
-
+---
 
 ### Top Technologies
 
