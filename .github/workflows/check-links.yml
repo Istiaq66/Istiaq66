@@ -1,0 +1,16 @@
+name: Check README Links
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6 AM UTC
+  workflow_dispatch:
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run Link Checker
+        uses: lycheeverse/lychee-action@v1.10.0
+        with:
+          args: --verbose README.md
