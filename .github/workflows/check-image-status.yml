@@ -2,7 +2,7 @@ name: Check External Images
 
 on:
   schedule:
-    - cron: '0 6 * * *'  # Daily
+    - cron: '0 12 * * *'
   workflow_dispatch:
 
 jobs:
