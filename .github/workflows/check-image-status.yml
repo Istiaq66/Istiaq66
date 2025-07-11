@@ -1,0 +1,28 @@
+name: Check External Images
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily
+  workflow_dispatch:
+
+jobs:
+  check-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check image URLs
+        run: |
+          urls=(
+            "https://readme-typing-svg.herokuapp.com?font=consolas&color=%234DF79A&height=30&lines=HI+there%2C+I'm+Istiaq+Ahmed!+👋"
+            "https://github.com/Istiaq66/Istiaq66/blob/output/github-snake-dark.svg"
+            "https://media.giphy.com/media/usXZmmgP9Z7kf39fnq/giphy.gif"
+          )
+
+          for url in "${urls[@]}"; do
+            echo "Checking $url"
+            status=$(curl -s -o /dev/null -w "%{http_code}" "$url")
+            if [ "$status" -ne 200 ]; then
+              echo "::warning file=README.md::Image at $url returned HTTP $status"
+            else
+              echo "✅ $url OK"
+            fi
+          done
