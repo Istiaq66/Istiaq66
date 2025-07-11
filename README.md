@@ -37,12 +37,22 @@
 
 ### Top Technologies
 
-<!-- TODO: Make technologies links takes you to repositories -->
-[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Istiaq66/MentorShip/tree/master/Dart%20Basics)
+[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=444444&logo=dart&logoColor=white)](https://github.com/Istiaq66/MentorShip/tree/master/Dart%20Basics)
 &nbsp;
-[![Flutter Badge](https://img.shields.io/badge/-flutter-blue?style=for-the-badge&labelColor=black&logo=flutter&logoColor=blue)](https://github.com/Istiaq66/MentorShip/tree/master/quiz_app)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=444444&logo=flutter&logoColor=white)](https://github.com/Istiaq66/MentorShip/tree/master/quiz_app)
 &nbsp;
-[![PHP Badge](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&labelColor=black&logo=php&logoColor=tblue)](https://momentous-click.elementfx.com)
+[![PHP](https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&labelColor=4B275F&logo=php&logoColor=white)](https://momentous-click.elementfx.com)
+&nbsp;
+[![C++](https://img.shields.io/badge/-C++-5C8DBC?style=for-the-badge&labelColor=2E2E2E&logo=c%2B%2B&logoColor=white)](https://github.com/Istiaq66?tab=repositories&q=c%2B%2B)
+&nbsp;
+[![C](https://img.shields.io/badge/-C-2C5E8D?style=for-the-badge&labelColor=1C1C1C&logo=c&logoColor=white)](https://github.com/Istiaq66?tab=repositories&q=c)
+&nbsp;
+[![Java](https://img.shields.io/badge/-Java-FF0000?style=for-the-badge&labelColor=3B3B3B&logo=java&logoColor=white)](https://github.com/Istiaq66?tab=repositories&q=java)
+&nbsp;
+[![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&labelColor=222222&logo=python&logoColor=white)](https://github.com/Istiaq66?tab=repositories&q=python)
+
+
+
 
 
 
