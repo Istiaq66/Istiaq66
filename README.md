@@ -87,15 +87,7 @@
 [![Istiaq GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiaq66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-
 ---
-
-<b>&#128200; Competitive Programming</b>
-
-![](https://raw.githubusercontent.com/istiaq66/cf-stats/main/output/max_rating.svg)
-
-![](https://raw.githubusercontent.com/istiaq66/cf-stats/main/output/light_card.svg)
 
 
 ## 🏆 GitHub Trophies
