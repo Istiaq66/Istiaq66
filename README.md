@@ -6,7 +6,7 @@
 
 -  📫 How to reach me: ahmedboby66@gmail.com.
 - ⚡ Fun fact: I love to play video games / football 
-- ⚒ I'm currently working as a Software Engineer (Flutter) @[Greentech Apps Foundation](https://gtaf.org)
+- ⚒ I'm currently working as a Software Engineer (Flutter) [@Greentech Apps Foundation](https://gtaf.org)
 - 😻 Check out the app I created: [Fitness-Pal](https://github.com/Istiaq66/fitnesspal_user/tree/master)
 
 <table>
