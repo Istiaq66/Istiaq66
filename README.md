@@ -2,7 +2,7 @@
 
 ## I'm a Software Engineer (Flutter) | Problem Solver | Passionate about creating innovative solutions
 
-- 🥅 2025 Goals: Advance expertise in DSA, initiate backend learning, explore DevOps, contribute to open source, and focus on code quality for continual growth as a software engineer.
+- 🥅 2025 Goals: Take ownership of scalable Flutter architectures, lead feature development end-to-end, contribute to system design decisions, and mentor developers while improving performance, testing, and code quality across projectsa and also focus on code quality for continual growth as a software engineer.
 
 -  📫 How to reach me: ahmedboby66@gmail.com.
 - ⚡ Fun fact: I love to play video games / football 
