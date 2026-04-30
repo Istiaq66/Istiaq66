@@ -38,6 +38,21 @@
 
 ---
 
+### 🧠 My Expertise
+
+| Area | Skills |
+|------|--------|
+| 📝 Programming | Dart, C++, Java, Python, |
+| 🚀 State Management | Provider, GetX, Riverpod |
+| 💾 Databases | MySql, SQFLite, NoSql |
+| 🎨 UI/UX | Responsive Design, Figma, Adobe Xd |
+| 🏗️ Architecture | MVC, MVVM |
+| ⚙️ Tools | Git, Postman, VS Code, Android Studio, Click up, Claude Code, Cursor |
+| 🤖 Problem Solving | Solved 700+ Problems on different online judges including |
+
+
+---
+
 ### Top Technologies
 
 [![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Istiaq66/MentorShip/tree/master/Dart%20Basics)
