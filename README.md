@@ -58,8 +58,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,php,cpp,python,java" alt="tech stack" />
+    <img src="https://skillicons.dev/icons?i=dart,flutter,java,git,github,gitlab,vscode,androidstudio,mysql&perline=6" alt="tech stack" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/-iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
+  &nbsp;
+  <a href="https://clickup.com"><img src="https://img.shields.io/badge/-ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white" alt="ClickUp" /></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/-Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
 </p>
 
 ---
