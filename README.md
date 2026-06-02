@@ -55,15 +55,12 @@
 
 ### Top Technologies
 
-[![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://github.com/Istiaq66/MentorShip/tree/master/Dart%20Basics)
-&nbsp;
-[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/Istiaq66/MentorShip/tree/master/quiz_app)
-&nbsp;
-[![PHP](https://img.shields.io/badge/-PHP-8892BF?style=for-the-badge&logo=php&logoColor=white)](https://momentous-click.elementfx.com)
-&nbsp;
-[![C++](https://img.shields.io/badge/-C++-5C8DBC?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://github.com/Istiaq66?tab=repositories&q=c%2B%2B)
-&nbsp;
-[![Python](https://img.shields.io/badge/-Python-306998?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Istiaq66?tab=repositories&q=python)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,php,cpp,python,java" alt="tech stack" />
+  </a>
+</p>
 
 ---
 
