@@ -77,7 +77,7 @@
 
 ### ⚡ GitHub Stats
 
-[![Istiaq GitHub stats](https://github-readme-stats.vercel.app/api?username=Istiaq66&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Istiaq GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/Istiaq66?theme=tokyonight&show_icons=true)](https://git.io/awesome-stats-card)
 
 ---
 
