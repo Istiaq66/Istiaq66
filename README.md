@@ -171,7 +171,7 @@
 ### Profile Visits
 
 <a href="https://github.com/Istiaq66">
-  <img src="https://komarev.com/ghpvc/?username=Istiaq66" alt="visitors" />
+  <img src="https://komarev.com/ghpvc/?username=Istiaq66&color=blue&style=flat" alt="visitors" />
 </a>
 
 ---
