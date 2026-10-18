@@ -178,7 +178,14 @@
 
 ### ⚡ GitHub Stats
 
-[![Istiaq GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/Istiaq66?theme=tokyonight&show_icons=true)](https://git.io/awesome-stats-card)
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Istiaq66?theme=tokyonight&show_icons=true" alt="Istiaq GitHub stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Istiaq66&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Istiaq66&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="70%" />
+</p>
 
 ---
 
