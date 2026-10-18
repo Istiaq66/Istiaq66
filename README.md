@@ -6,8 +6,8 @@
 
 - 📫 How to reach me: **ahmedboby66@gmail.com**
 - ⚡ Fun fact: I love to play video games / football  
-- ⚒ I'm currently working as a Software Engineer (Flutter) [@Greentech Apps Foundation](https://gtaf.org)  
-- 😻 Check out the app I created: [Fitness-Pal](https://github.com/Istiaq66/fitnesspal_user/tree/master)
+- ⚒ I'm currently working as a Software Engineer (Flutter) [@Greentech Apps Foundation](https://gtaf.org)
+- 🕌 Check out my Play Store app: [Subh Warrior](https://play.google.com/store/apps/details?id=com.subhwarrior.app)
 
 ---
 
@@ -71,6 +71,100 @@
   &nbsp;
   <img src="https://img.shields.io/badge/-Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Agile" />
 </p>
+
+---
+
+### 📦 Published Package
+
+<table>
+  <tr>
+    <td width="100" align="center">
+      <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f514.png" width="56" alt="alarm icon" />
+    </td>
+    <td>
+      <a href="https://pub.dev/packages/flutter_alarm_call"><b>flutter_alarm_call</b></a><br/>
+      Rings like an incoming call at a scheduled time — Android alarm-clock notification with full-screen call UI over the lock screen, no background isolate for OEMs to kill.
+      <br/><br/>
+      <a href="https://pub.dev/packages/flutter_alarm_call"><img src="https://img.shields.io/pub/v/flutter_alarm_call?label=version&color=0175C2&logo=dart&logoColor=white&style=for-the-badge" /></a>
+      <a href="https://pub.dev/packages/flutter_alarm_call/score"><img src="https://img.shields.io/pub/points/flutter_alarm_call?label=pub%20points&color=00C853&style=for-the-badge" /></a>
+      <a href="https://pub.dev/packages/flutter_alarm_call/score"><img src="https://img.shields.io/pub/likes/flutter_alarm_call?label=likes&color=FF4081&style=for-the-badge" /></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://fitness-pal-67f0a.web.app/">
+        <img src="https://img.shields.io/badge/💪-FitnessPal-4CAF50?style=for-the-badge&labelColor=1a1a1a" />
+      </a>
+      <br/><br/>
+      AI-driven fitness companion: step tracking, workouts, calories & Gemini-powered diet plans.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.subhwarrior.app">
+        <img src="https://img.shields.io/badge/🕌-Subh_Warrior-FF9800?style=for-the-badge&labelColor=1a1a1a" />
+      </a>
+      <br/><br/>
+      28-day morning-routine challenge app: Fajr tracking, streaks & leaderboard.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      <img src="https://img.shields.io/badge/Provider-6A1B9A?style=flat-square" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://istiaq66.netlify.app/">
+        <img src="https://img.shields.io/badge/🌐-Portfolio-2196F3?style=for-the-badge&labelColor=1a1a1a" />
+      </a>
+      <br/><br/>
+      Personal portfolio site: custom cursor, particle background & animated timeline.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <a href="https://pub.dev/packages/flutter_alarm_call">
+        <img src="https://img.shields.io/badge/🔔-flutter__alarm__call-E91E63?style=for-the-badge&labelColor=1a1a1a" />
+      </a>
+      <br/><br/>
+      Pub.dev package — full-screen call-style alarm notifications for Flutter.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://istiaq66.github.io/play-store-assets/">
+        <img src="https://img.shields.io/badge/🖼️-Play_Store_Assets-009688?style=for-the-badge&labelColor=1a1a1a" />
+      </a>
+      <br/><br/>
+      Browser tool generating Play Store icons, feature graphics & captioned screenshots.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/Canvas_API-607D8B?style=flat-square" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <a href="https://github.com/Istiaq66/playstore-screenshots">
+        <img src="https://img.shields.io/badge/📸-Play_Store_Screenshots-795548?style=for-the-badge&labelColor=1a1a1a" />
+      </a>
+      <br/><br/>
+      Claude Code skill driving an Android emulator to auto-capture captioned store screenshots.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/ADB-34A853?style=flat-square" />
+    </td>
+  </tr>
+</table>
 
 ---
 
